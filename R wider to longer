@@ -1,0 +1,14 @@
+Pivoting: Consider this a starting point for tidying data through wide and long conversions.
+This web page is taken directly from tidyr package information at tidyverse.org. It explores the components of the pivot_longer 
+and pivot_wider functions using specific details, examples, and definitions. 
+https://tidyr.tidyverse.org/articles/pivot.html
+
+CleanItUp 5: R-Ladies Sydney: Wide to Long to Wide to…PIVOT: 
+This resource gives you additional details about the pivot_longer and pivot_wider functions. 
+The examples provided use interesting datasets to illustrate how to convert data from wide to long and back to wide. 
+https://rladiessydney.org/courses/ryouwithme/02-cleanitup-5/
+
+Plotting multiple variables: This resource explains how to visualize wide and long data,
+with ggplot2 to help tidy it. The focus is on using pivot_longer to restructure data and make similar plots of a number of variables at once. 
+You can apply what you learn from the other resources here for a broader understanding of the pivot functions.
+https://scc.ms.unimelb.edu.au/resources/tips-for-using-r/r-scripts
