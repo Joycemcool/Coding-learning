@@ -1,0 +1,16 @@
+Some popular packages with templates for R Markdown include the following:
+
+The vitae package contains templates for creating and maintaining a résumé or curriculum vitae (CV)
+https://github.com/mitchelloharawild/vitae
+
+The rticles package provides templates for various journals and publishers
+https://github.com/rstudio/rticles
+
+The learnr package makes it easy to turn any R Markdown document into an interactive tutorial 
+https://github.com/rstudio/learnr
+
+The bookdown package facilitates writing books and long-form articles
+https://github.com/rstudio/bookdown
+
+The flexdashboard package lets you publish a group of related data visualizations as a dashboard
+https://github.com/rstudio/flexdashboard
